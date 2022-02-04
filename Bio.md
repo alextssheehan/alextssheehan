@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @asxn
-- 👀 I’m interested in R, Bash, MRI analysis, EEG analysis, MATLAB, PsychoPy, E-Prime, open-source, open science
-- 🌱 I’m currently learning ERP analysis, rs-EEG analysis, MRI tractography, rs-fMRI analysis, shell scripting
