@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm @alextssheehan
 
 - 🔨 I currently work as: A [Postdoctoral Research Fellow](https://research.reading.ac.uk/cinn/alex-sheehan/) in the [Centre for Integrative Neuroscience & Neurodynamics](https://research.reading.ac.uk/cinn/) at the University of Reading
-- 🔭 I’m currently working on: Lindenmayer System grammars, bilingual neurocognitive adaptation, linguistic distance, functional connectivity, brain dynamics, complex systems, study design development, entropy, complexity, fractal dimension
-- 🌱 I’m currently learning: Static & dynamic functional connectivity for EEG & fMRI, simultaneous EEG-fMRI, dynamical systems theory, emergentist theory
+- 🔭 I’m currently working on: Lindenmayer System grammars, bi-/multilingual neurocognitive adaptation, linguistic distance, functional connectivity, brain dynamics, dynamical & complex systems, study design development, entropy, neural complexity, fractal dimension
+- 🌱 I’m currently learning: Simultaneous EEG-fMRI, dynamical systems theory, emergentist theory, signal complexity analysis
 - 👀 I’m interested in: R, MRI analysis, EEG analysis, MATLAB, E-Prime, neuroscience, psycholinguistics, cognitive psychology, quantitative statistics (including Bayesian), novel research & analysis method development, open-source, open science
 - 😄 Pronouns: He/him.
 
